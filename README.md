@@ -1,1 +1,8 @@
-# iosSwift3NotifyMe
+# ios Swift3 NotifyMe App
+
+
+This app have various kinds of notifications examples
+
+Send Notifications
+View Delievred Notifications
+Notifications Count
