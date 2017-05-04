@@ -3,6 +3,6 @@
 
 This app have various kinds of notifications examples
 
-Send Notifications
+Send Notifications \n
 View Delievred Notifications
 Notifications Count
